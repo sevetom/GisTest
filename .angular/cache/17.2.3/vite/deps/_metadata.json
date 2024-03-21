@@ -1,0 +1,49 @@
+{
+  "hash": "059892a8",
+  "configHash": "6f75a9f4",
+  "lockfileHash": "9697b969",
+  "browserHash": "94d9d365",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "8d477ae1",
+      "needsInterop": false
+    },
+    "@angular/google-maps": {
+      "src": "../../../../../node_modules/@angular/google-maps/fesm2022/google-maps.mjs",
+      "file": "@angular_google-maps.js",
+      "fileHash": "7788f245",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "ba1a4380",
+      "needsInterop": false
+    },
+    "@googlemaps/markerclusterer": {
+      "src": "../../../../../node_modules/@googlemaps/markerclusterer/dist/index.esm.js",
+      "file": "@googlemaps_markerclusterer.js",
+      "fileHash": "b985b1d6",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "4fca26b5",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-NE47PQ7S": {
+      "file": "chunk-NE47PQ7S.js"
+    },
+    "chunk-EDQFUMMJ": {
+      "file": "chunk-EDQFUMMJ.js"
+    },
+    "chunk-ASLTLD6L": {
+      "file": "chunk-ASLTLD6L.js"
+    }
+  }
+}

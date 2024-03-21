@@ -1,0 +1,9 @@
+<div id="map"></div>
+<div id="zoom-level" class="px-3 pt-3 pb-0 mb-3 bg-white border rounded">
+    <p class="fs-6">Livello zoom {{ zoomLevel }}</p>
+</div>
+<form [formGroup]="form" class="p-3 m-2 bg-white" (ngSubmit)="onModificaClusterizzazione()">
+    <label for="cluster-level" class="form-label fs-6">Livello clusterizzazione</label>
+    <input type="number" id="cluster-level" class="form-control" formControlName="clusteringLevel"/>
+    <button type="submit" class="btn btn-secondary mt-2">Modifica</button>
+</form>
